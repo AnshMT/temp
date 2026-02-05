@@ -624,7 +624,7 @@ export const translations = {
       हिंदी: 'सदस्यता लें'
     },
     copyright: {
-      English: '© 2025 Prakritya',
+      English: '© 2026 Prakritya',
       हिंदी: '© 2025 प्रकृत्या'
     },
     privacy: {
