@@ -1,4 +1,3 @@
-// Translation data for English and Hindi
 export const translations = {
   navbar: {
     phoneNumber: {
