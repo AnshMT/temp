@@ -1,6 +1,3 @@
-
-
-
 import React, { useState } from "react";
 import { useLanguage } from '../context/LanguageContext';
 import { translations } from '../utils/translations';
